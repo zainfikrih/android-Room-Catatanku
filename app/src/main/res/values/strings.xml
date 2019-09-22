@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catatanku</string>
+    <string name="tambah_catatan">tambah catatan</string>
+    <string name="isi_catatan">Isi Catatan</string>
+    <string name="simpan_catatan">Simpan Catatan</string>
+    <string name="judul_catatan">Judul Catatan</string>
+    <string name="tidak_ada_catatan">Tidak ada catatan</string>
+</resources>
